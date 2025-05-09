@@ -1,7 +1,0 @@
-Copyright (c) 2025 Wendell Ribeiro Nogueira
-
-Todos os direitos reservados.
-
-É proibido copiar, distribuir, modificar ou reutilizar qualquer parte deste projeto sem autorização expressa do autor. O uso deste repositório é restrito ao estudo e demonstração não comercial.
-
-Este projeto é protegido pelas leis de propriedade intelectual nacionais e internacionais.
